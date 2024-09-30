@@ -24,11 +24,13 @@ Mostly what I am learning.
 | [YouTube: MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)     | ✅       |
 | [YouTube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | ✅       |
 
-### Machine Learning/Deep Learning
+### Machine Learning/Deep Learning/ Data Science
 
 | Resource                                                                                                                                                  | Progress |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [YouTube: Neural Networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)                                      |          |
+| [Book: Python Data Science Handbook ](https://jakevdp.github.io/PythonDataScienceHandbook/)                                                               | ✅       |
+| [Book: Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)                                                   | ✅       |
+| [YouTube: Neural Networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)                                      | ✅       |
 | Book: Deep Learning by Ian Goodfellow                                                                                                                     | [###]    |
 | Book: Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications                                                          |          |
 | [Article: An overview of gradient descent optimization algorithms ](https://www.ruder.io/optimizing-gradient-descent/)                                    |          |
@@ -49,7 +51,7 @@ Mostly what I am learning.
 
 | Resource                                                                                 | Progress |
 | ---------------------------------------------------------------------------------------- | -------- |
-| [Youtube: Building a RAG from scratch](https://youtu.be/BrsocJb-fAo?si=13-fYpjIBp9rmdhw) |          |
+| [Youtube: Building a RAG from scratch](https://youtu.be/BrsocJb-fAo?si=13-fYpjIBp9rmdhw) | ✅       |
 | [Langchain Tutorial](https://github.com/misingo255/langchain-tutorials)                  |          |
 
 ### NLP
@@ -89,7 +91,19 @@ Mostly what I am learning.
 
 ### Product/UI/UX
 
-| Resource                       | Progress |
-| ------------------------------ | -------- |
-| [Book: Don't Make me think](#) |          |
-| [The Mom test](#)              | [##]     |
+| Resource                                          | Progress |
+| ------------------------------------------------- | -------- |
+| [Book: Don't Make me think](#)                    |          |
+| [Book: The Mom test](#)                           | [##]     |
+| [Book: Hooked](https://www.nirandfar.com/hooked/) | [##]     |
+
+## Papers
+
+| Resource                                                                                          | Progress |
+| ------------------------------------------------------------------------------------------------- | -------- |
+| [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)                  | ✅       |
+| [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)       | ✅       |
+| [A non-self-intersection Douglas-Peucker Algorithm](https://ieeexplore.ieee.org/document/1240992) | ✅       |
+| [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/pdf/1801.06146)  |          |
+| [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661)                                    | ✅       |
+| [Detecting Roads from Satellite Imagery in the Developing World]()                                | ✅       |
