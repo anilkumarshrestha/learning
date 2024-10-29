@@ -6,15 +6,23 @@ Mostly what I am learning.
 
 ### Python Programming
 
-| Resource                                                | Progress |
-| ------------------------------------------------------- | -------- |
-| [Book: A Byte of Python](https://python.swaroopch.com/) | ✅       |
+| Resource                                                                                                                                  | Progress |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Book: A Byte of Python](https://python.swaroopch.com/)                                                                                   | ✅       |
+| [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be) | ✅       |
+| [Book: Python 201](https://leanpub.com/python201)                                                                                         |          |
 
 ### Version Control
 
 | Resource               | Progress |
 | ---------------------- | -------- |
 | Git Essential Training | ✅       |
+
+### Linux and Shell
+
+| Resource                                                                                              | Progress |
+| ----------------------------------------------------------------------------------------------------- | -------- |
+| [MIT: The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) |          |
 
 ### Maths
 
@@ -23,6 +31,8 @@ Mostly what I am learning.
 | Book: Introduction to Linear Algebra by Gilbert Strang                                                         | ✅       |
 | [YouTube: MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)     | ✅       |
 | [YouTube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | ✅       |
+
+## Specialization
 
 ### Machine Learning/Deep Learning/ Data Science
 
@@ -47,7 +57,16 @@ Mostly what I am learning.
 | [YouTube: Lecture Collection Convolutional Neural Networks for Visual ](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | ✅       |
 | [YouTube: DeepRobo Winter Lecture ](https://www.youtube.com/playlist?list=PLf_SmXJixhnXoMs0Qvxe500BrjfbIOwSg)                                     |          |
 
-#### Information Retrieval / RAG
+### LLM
+
+| Resource                                                                                                                   | Progress |
+| -------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)                                    |          |
+| [Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)                                     |          |
+| [Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)                                      |          |
+| [ Stanford CS229 I Machine Learning I Building Large Language Models (LLMs) ](https://www.youtube.com/watch?v=9vM4p9NN0Ts) |          |
+
+### Information Retrieval / RAG
 
 | Resource                                                                                 | Progress |
 | ---------------------------------------------------------------------------------------- | -------- |
@@ -56,11 +75,16 @@ Mostly what I am learning.
 
 ### NLP
 
-| Resource                                                                                     | Progress |
-| -------------------------------------------------------------------------------------------- | -------- |
-| [YouTube: A Hackers' Guide to Language Models ](https://www.youtube.com/watch?v=jkrNMKz9pWU) | ✅       |
-| [HuggingFace: NLP course - Hugging face ](https://huggingface.co/learn/nlp-course/)          |          |
-| nVidia: Building Transformer-Based Natural Language Processing                               |          |
+| Resource                                                                                                                                            | Progress |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [YouTube: A Hackers' Guide to Language Models ](https://www.youtube.com/watch?v=jkrNMKz9pWU)                                                        | ✅       |
+| [HuggingFace: NLP course - Hugging face ](https://huggingface.co/learn/nlp-course/)                                                                 |          |
+| nVidia: Building Transformer-Based Natural Language Processing                                                                                      |          |
+| [Book: Natural Language Processing with Transformers](https://transformersbook.com/)                                                                |          |
+| [Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)          |          |
+| [Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |          |
+| [CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)                                     |          |
+| [CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)                                                                                 |          |
 
 ## Tools and Framework
 
