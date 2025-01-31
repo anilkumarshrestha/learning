@@ -10,7 +10,7 @@ Mostly what I am learning.
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [Book: A Byte of Python](https://python.swaroopch.com/)                                                                                   | ✅       |
 | [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be) | ✅       |
-| [Book: Python 201](https://leanpub.com/python201)                                                                                         |          |
+| [Book: Python 201](https://leanpub.com/python201)                                                                                         | [#####]  |
 
 ### Version Control
 
@@ -43,7 +43,7 @@ Mostly what I am learning.
 | [Book: Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)                                                   | ✅       |
 | [YouTube: Neural Networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)                                      | ✅       |
 | Book: Deep Learning by Ian Goodfellow                                                                                                                     | [###]    |
-| Book: Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications                                                          |          |
+| Book: Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications                                                          | [###]    |
 | [Article: An overview of gradient descent optimization algorithms ](https://www.ruder.io/optimizing-gradient-descent/)                                    |          |
 | [Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) |          |
 | [Fast.ai: Practical Deep Learning (Part 1)](https://course.fast.ai/)                                                                                      |          |
@@ -124,7 +124,7 @@ Mostly what I am learning.
 | [Book: Don't Make me think](#)                    |          |
 | [Book: The Mom test](#)                           | [##]     |
 | [Book: Hooked](https://www.nirandfar.com/hooked/) | [##]     |
-| HBR's 10 Must Reads on Design Thinking            |          |
+| HBR's 10 Must Reads on Design Thinking            | [###]    |
 
 ## Papers
 
